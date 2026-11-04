@@ -9,11 +9,9 @@ Développeur web full stack
 ![](https://streak-stats.demolab.com/?user=GedsonOtch&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=GedsonOtch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Citations dev aléatoires
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GedsonOtch&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=GedsonOtch&icon=0&color=0)](https://visitcount.itsvg.in)
